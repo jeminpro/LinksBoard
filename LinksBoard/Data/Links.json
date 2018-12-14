@@ -1,0 +1,140 @@
+[
+  {
+    "groupId": "97910594-b86e-4be5-addd-ccd89f3ef7e7",
+    "groupName": "Civica",
+    "links": [
+      {
+        "name": "Intranet",
+        "url": "https://vic.civica.co.uk/Pages/default.aspx",
+        "description": "Developemnt board",
+        "linkId": "0f3cbfeb-dbd8-4a4b-bac6-47f66bcd008e"
+      },
+      {
+        "name": "Service Desk",
+        "url": "https://servicedesk.civica.co.uk/ServiceDesk",
+        "description": "Log tickets for IT services",
+        "linkId": "c21367ac-b00a-4cb5-a43a-e342f0876924"
+      },
+      {
+        "name": "Egencia",
+        "url": "http://www.egencia.co.uk/",
+        "description": "For booking tickest and hotels",
+        "linkId": "3f9d1df0-88c6-47ae-9a07-7d7c046d85c5"
+      },
+      {
+        "name": "Fairsail",
+        "url": "https://fs-5808.cloudforce.com/servlet/servlet.Integration?lid=01rw0000000GUHi&ic=1",
+        "description": "Booking leave, checkin, objectives, praise etc.",
+        "linkId": "68f484dc-4516-4a75-a873-b274012c95bf"
+      },
+      {
+        "name": "Benefits & Rewards",
+        "url": "https://vic.civica.co.uk/Pages/Benefits-And-Rewards.aspx",
+        "description": "Benefits & Rewards",
+        "linkId": "71304838-a54a-4aee-a274-0e99c3443464"
+      },
+      {
+        "name": "Internal vacancy",
+        "url": "https://vic.civica.co.uk/Documents/Vacancies.pdf",
+        "description": null,
+        "linkId": "9d40f9d4-e851-476d-b393-2cd3a762fae3"
+      },
+      {
+        "name": "Proact",
+        "url": "https://proact.civica.co.uk/",
+        "description": "Timesheets",
+        "linkId": "702dc5ff-02af-414d-bb10-53b0fc55cf2a"
+      },
+      {
+        "name": "My View",
+        "url": "https://myview.civica.co.uk/",
+        "description": "Payslips",
+        "linkId": "72954c84-4453-4b74-b902-423670ab3c6d"
+      },
+      {
+        "name": "SiteLog",
+        "url": "http://sitelog.civica.co.uk/menu.asp",
+        "description": "Expenses",
+        "linkId": "87962445-c483-4348-be8d-f8b92f596a4e"
+      }
+    ]
+  },
+  {
+    "groupId": "1bc5d0b8-8625-4ecd-95c5-a4ee34c0f5bc",
+    "groupName": "Dev tools",
+    "links": [
+      {
+        "name": "Codepen",
+        "url": "https://codepen.io/",
+        "description": "Web editor",
+        "linkId": "b53a88dd-2486-4487-8270-6640d121f6c1"
+      },
+      {
+        "name": "JS Bin",
+        "url": "https://jsbin.com/?js,console",
+        "description": "Convient way to test js code in console",
+        "linkId": "6e7c01a6-8a3e-4ac0-98c4-fddf9a246d83"
+      },
+      {
+        "name": "Devhints",
+        "url": "https://codepen.io/",
+        "description": "Collection of cheatsheets",
+        "linkId": "7cb54467-9c41-43a9-b1b5-c41462e23094"
+      },
+      {
+        "name": "Devhints",
+        "url": "https://www.uuidgenerator.net/version1",
+        "description": "Online GUID Generator",
+        "linkId": "bec8c783-22fd-458b-88e6-1e10fa3c6e7a"
+      },
+      {
+        "name": "Guid generator",
+        "url": "https://www.uuidgenerator.net/version1",
+        "description": "Online GUID Generator",
+        "linkId": "913fdc26-1f4f-404b-9d1b-7d3d90559f18"
+      }
+    ]
+  },
+  {
+    "groupId": "1166b0b8-9547-48d9-a9c1-2a3a4c1df537",
+    "groupName": "Learning Platform",
+    "links": [
+      {
+        "name": "Plural sight",
+        "url": "https://app.pluralsight.com/library/",
+        "description": "",
+        "linkId": "b51f67c6-515b-4840-af04-2e3d066dd22e"
+      },
+      {
+        "name": "Udemy",
+        "url": "https://www.udemy.com/",
+        "description": "",
+        "linkId": "6f24b855-2cd0-4cbd-9df2-d3b4a258cb5b"
+      }
+    ]
+  },
+  {
+    "groupId": "c384fec1-0293-4088-8ca2-a79656deeaa7",
+    "groupName": "Technical read",
+    "links": [
+      {
+        "name": "React forms",
+        "url": "https://reactjs.org/docs/forms.html",
+        "description": "Creating forms in react",
+        "linkId": "6a776abe-5d31-44b0-8c30-3cd58b171ab1"
+      },
+      {
+        "name": "Airbnb JavaScript Style Guide",
+        "url": "https://github.com/airbnb/javascript",
+        "description": "JavaScript Style Guide",
+        "linkId": "8885f74f-b11b-46c1-936b-9dabbe2609b4"
+      },
+      {
+        "name": "Civica Digital dojo",
+        "url": "https://github.com/CivicaDigital",
+        "description": "Dojo projects",
+        "linkId": "7e83e0d4-db17-49c5-b882-d17898142638"
+      }
+    ]
+  }
+]

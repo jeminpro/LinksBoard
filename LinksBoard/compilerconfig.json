@@ -1,0 +1,18 @@
+﻿[
+  {
+    "outputFile": "ClientApp/src/components/linkley/styles/Site.css",
+    "inputFile": "ClientApp/src/components/linkley/styles/Site.scss"
+  },
+  {
+    "outputFile": "ClientApp/src/components/Battleship/battleship.css",
+    "inputFile": "ClientApp/src/components/Battleship/battleship.scss"
+  },
+  {
+    "outputFile": "ClientApp/src/components/Linkley/styles/linkley.css",
+    "inputFile": "ClientApp/src/components/Linkley/styles/linkley.scss"
+  },
+  {
+    "outputFile": "ClientApp/src/components/styles/linkley.css",
+    "inputFile": "ClientApp/src/components/styles/linkley.scss"
+  }
+]
